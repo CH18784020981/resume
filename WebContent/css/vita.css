@@ -1,0 +1,155 @@
+body
+{ /* position:relative:left:30%; */
+	width:51em;
+	/* margin:auto; */
+	}
+.headtitle {
+	position: absolute;
+	letter-spacing: 0.2em;
+	font-weight: bold;
+	top: -1em;
+}
+
+em {
+	display: inline-block;
+	margin: 0px;
+	background-color: #f2f2f2;
+	font-weight: bold;
+	font-size: large;
+	width: 100%;
+	letter-spacing: 0.2em;
+	font-style: normal;
+}
+
+#sp1 {
+	margin: 0px;
+}
+
+span {
+	margin-top: 1.5em;
+	width: 100%;
+	display: inline-block;
+	font-weight: bold;
+}
+
+i {
+	margin-top: 1.2em;
+	width: 100%;
+	display: inline-block;
+	color: gray;
+	font-style: normal;
+}
+
+.binfo {
+	size: 30%;
+	color: gray;
+	position: absolute;
+	top: 1.8em;
+	font-weight: normal;
+	font-size: large;
+	letter-spacing: 0.2em;
+}
+
+.rbinfo {
+	//white-space:pre-wrap;
+	size: 30%;
+	color: gray;
+	direction: rtl;
+	letter-spacing: 0.05em;
+}
+
+.icon {
+	heigth: 1.5em;
+	width: 1.5em;
+	position: relative;
+	top: 0.4em;
+}
+
+div {
+	font-size: medium;
+}
+
+div div:hover, a:hover{
+	cursor:auto;
+	border: 1;
+	border-style: solid;
+	border-color:captiontext;
+	background-color: lightgray;
+}
+
+
+.div1 {
+	margin-top: 2em;
+	margin-left: 3em;
+	margin-right: 3em;
+	//border: 1;
+	//border-style: solid;
+	width: 45em;
+	height: 7em;
+}
+
+.div2 {
+	margin-top: 2.3em;
+	margin-left: 3em;
+	//border: 1;
+	//border-style: solid;
+	width: 23em;
+	height: 8em;
+}
+
+.div3 {
+	margin-top: 2.3em;
+	margin-left: 3em;
+	margin-bottom: 2.5em;
+	//border: 1;
+	//border-style: solid;
+	width: 26em;
+	height: 44em;
+}
+
+.div4 {
+	margin-top: 0px;
+	margin-right: 3em;
+	width: 14em;
+	height: 19em;
+	//border: 1;
+	//border-style: solid;
+	position: absolute;
+	left: 34.6em;
+	//left: 53.5em;
+	top: 21.7em;
+}
+
+.div5 {
+	margin-top: 2.3em;
+	margin-right: 3em;
+	width: 14em;
+	height: 21em;
+	//border: 1;
+	//border-style: solid;
+	position: absolute;
+	left: 34.6em;
+	//left: 53.5em;
+	top: 40.7em;
+}
+
+.headphoto {
+	background-image: url("../image/headphoto.jpeg");
+	background-size: contain; margin =0;
+	width: 8.6em;
+	height: 8.6em; 
+	//border: 0; 
+	//border-style: solid;
+	border-radius: 50% 50% 50% 50%;
+	position: absolute;
+	left: 37.6em;
+	//left: 56.1em;
+	top: 10.1em;
+}
+#i1{
+	width:100%;
+	height:100%;
+	position:relative;left:35%;
+	
+	
+}
